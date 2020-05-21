@@ -15,7 +15,7 @@ There are a number of dependencies that I have included because I have used them
 - [svelte-media](https://github.com/cibernox/svelte-media)
 - [autoprefixer](https://github.com/postcss/autoprefixer)
 
-svelte-media has a store that exposes media queries for you to use in your code. the darkMode store has turnOn() and turnOff() functions to turn on and off the dark mode, which you can specify in your css the the dark: selector ie. dark:bg-gray-900
+svelte-media has a store that exposes media queries for you to use in your code. the darkMode store has turnOn() and turnOff() functions to turn on and off the dark mode, which you can specify in your css with the dark: selector ie. dark:bg-gray-900
 
 I have set up a color palette that conforms to the material design [color palette](https://material.io/design/color/the-color-system.html#tools-for-picking-colors) but I have also included a dark-gray color for use with dark mode.
 
